@@ -1,0 +1,11 @@
+{
+  "name": "EmergencyLink",
+  "description": "Location-Aware Emergency Patient Information & Hospital Resource Coordination System",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
